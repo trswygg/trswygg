@@ -1,0 +1,96 @@
+{
+  "titleNameMap": {
+    "educationList": "教育背景",
+    "workExpList": "工作经历",
+    "projectList": "项目经验",
+    "skillList": "个人技能",
+    "awardList": "更多信息",
+    "workList": "个人作品",
+    "aboutme": "个人评价"
+  },
+  "avatar": {
+    "src": "https://picss.sunbangyan.cn/2023/10/19/10fd99802ddaf8d8e0aa5a9099f4184e.png",
+    "hidden": false,
+    "shape": "square"
+  },
+  "profile": {
+    "name": "杨松霖",
+    "email": "trswygg@gmail.com",
+    "mobile": "17393161648",
+    "github": "https://github.com/trswygg",
+    "zhihu": "",
+    "workExpYear": "2"
+  },
+  "educationList": [
+    {
+      "edu_time": ["2017.09.01", "2021.06.30"],
+      "school": "兰州交通大学",
+      "major": "软件工程",
+      "academic_degree": "本科",
+      "dataIndex": 0
+    }
+  ],
+  "awardList": [
+    { "award_info": "英语 CET4", "award_time": "2018", "dataIndex": 0 },
+    { "award_time": "2018", "award_info": "华硕合伙人 交大校区SDVP" }
+  ],
+  "workExpList": [
+    {
+      "work_time": ["2021.7", "2023.10"],
+      "company_name": "北京瑞光极远数码科技有限公司",
+      "department_name": "研发部",
+      "work_desc": "1.后端软件开发(go)\n2.桌面端软件开发(pyqt,swing)\n3.服务器组装调试运维"
+    }
+  ],
+  "skillList": [
+  ],
+  "projectList": [
+    {
+      "project_time": "2021.9",
+      "project_name": "某大学教学态势演示系统",
+      "project_desc": "整合现有教学管理系统和在线教学设施的数据，按照各种展示需求建立数据模型、整理数据，并按照各种维度展示数据。并通过分布式矩阵的操作，可以将数据在不同的媒体上展示。",
+      "project_content": "负责项目实施.\n1.实现UI及ECharts数据绑定\n2.使用Kettle进行数据抽取\n3.协助编写及优化SQL查询效率\n4.编写项目相关实施及测试文档",
+      "dataIndex": 0
+    },
+    {
+      "project_time": "2021.12",
+      "project_name": "Netguard 网络管理软件",
+      "project_desc": "为PDH多业务光端机系列设备、PCM综合业务交叉复用设备和SDH/MSTP综合业务光纤接入设备的集中统一网管。",
+      "project_content": "负责上位机部分软件开发. \n1. 增加了新的SNMP控制报文\n2. 升级项目代码, 添加maven支持与nsis安装包\n3.增加了声光告警操作日志等功能,实现了众多定制功能.\n4. 重写代码, 更新优化了UI与部分操作逻辑, 并添加了复杂SNMP节点的支持",
+      "dataIndex": 0
+    },
+    {
+      "project_time": "2022.4",
+      "project_name": "IDM-MCC2000融合通信调度系统",
+      "project_desc": "一款以SIP软交换为主要技术架构，融合了MQTT物联网通信协议、RTMP/RTSP流媒体协议、GIS地理信息系统、BI信息展示系统等技术于一体，集语音、视频、图像、数据、文本消息等信息调度方式的综合调度系统",
+      "project_content": "\n1.负责MQTT模块的早期实现\n2.RTMP/RTSP 等音视频流媒体的接入,转码以及显示\n3. 云服务器的运维",
+      "dataIndex": 1
+    },
+    {
+      "project_time": "2022.9",
+      "project_name": "相控阵雷达仿真软件",
+      "project_desc": "相控阵雷达仿真软件是相控阵雷达模拟系统中信号处理的核心组成与逻辑实现，通过自定义选择，可通过仿真生成数据或导入试验数据，串联实现雷达系统信号处理全流程。同时，还具备并联使用多个雷达工具箱的\n能力。",
+      "project_content": "\n1.实现软件本体及各模块UI(pyqt)\n2.封装仿真代码(matlab)并进行调用\n3.根据文档及资料实现各个工具箱",
+      "dataIndex": 2
+    },
+    {
+      "project_time": "2023.1",
+      "project_name": "IDM talkie 70桌面对讲系统",
+      "project_desc": "用于安卓、linux、windows系统做为USB声卡扩展使用,支持音量控制，配合sip软电话使用，实现人工/自动接听, 一建拨号,一键对讲, 一键广播",
+      "project_content": "\n1.负责windows, linux上位机编写(串口)\n2.android终端软件编写\n3. 录音功能的实现和调度服务器的交互",
+      "dataIndex": 3
+    },
+    {
+      "project_time": "2023.8",
+      "project_name": "IDM MCC800指挥调度智能台式终端",
+      "project_desc": "支持音视频会议、会商、视频对讲, SIP, IM并可进行物联网的多业务融合型台式终端",
+      "project_content": "\n1.SIP 软电话编写(android)\n2. 物理键盘支持(串口)",
+      "dataIndex": 4
+    }
+  ],
+  "workList": [],
+  "aboutme": {
+    "aboutme_desc": "精通 Go、Java 编程, 可熟练使用python等语言, 有web及c/c++项目开发经验\n具有独立完成软件项目设计到实施落地及相关文档编写的能力.\n计算机基础扎实, 熟练掌握 Linux 相关知识, 可编写复杂的shell/ps脚本."
+  },
+  "theme": { "color": "#2f5785", "tagColor": "#8bc34a" }
+}
