@@ -19,7 +19,7 @@
     "mobile": "17393161648",
     "github": "https://github.com/trswygg",
     "zhihu": "",
-    "workExpYear": "2"
+    "workExpYear": "2年"
   },
   "educationList": [
     {
@@ -39,7 +39,7 @@
       "work_time": ["2021.7", "2023.10"],
       "company_name": "北京瑞光极远数码科技有限公司",
       "department_name": "研发部",
-      "work_desc": "1.后端软件开发(go)\n2.桌面端软件开发(pyqt,swing)\n3.服务器组装调试运维"
+      "work_desc": "1.后端软件开发\n2.桌面端软件开发\n3.服务器组装调试运维"
     }
   ],
   "skillList": [
@@ -90,7 +90,7 @@
   ],
   "workList": [],
   "aboutme": {
-    "aboutme_desc": "精通 Go、Java 编程, 可熟练使用python等语言, 有web及c/c++项目开发经验\n具有独立完成软件项目设计到实施落地及相关文档编写的能力.\n计算机基础扎实, 熟练掌握 Linux 相关知识, 可编写复杂的shell/ps脚本."
+    "aboutme_desc": "精通 Go、Java 编程, 可熟练使用python等编程语言, 有web及c/c++项目开发经验\n具有独立完成软件项目设计到实施落地及相关文档编写的能力.\n计算机基础扎实, 熟练掌握 Linux 相关知识, 可编写复杂的shell/ps脚本."
   },
   "theme": { "color": "#2f5785", "tagColor": "#8bc34a" }
 }
